@@ -1,0 +1,11 @@
+numpy>=1.24.0
+pandas>=2.0.0
+chromadb>=0.4.0
+qdrant-client>=1.6.0
+fastembed>=0.1.0
+langchain>=0.0.300
+llama-index>=0.8.0
+transformers>=4.30.0
+tree-sitter>=0.20.0
+watchdog>=3.0.0
+python-git>=2023.1.0
